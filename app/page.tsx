@@ -138,7 +138,7 @@ export default function Home() {
         </div>
 
         <div className="section-wrap relative z-10 flex min-h-[78vh] flex-col justify-center py-24">
-          <h1 className="font-display max-w-4xl whitespace-nowrap text-6xl font-bold uppercase leading-none text-white md:text-8xl">
+          <h1 className="font-display max-w-full text-4xl font-bold uppercase leading-[0.95] text-white min-[380px]:text-5xl sm:text-6xl sm:whitespace-nowrap md:text-8xl">
             11 juli 2026
           </h1>
           <p className="mt-4 text-xl font-semibold text-white md:text-3xl">
